@@ -1,0 +1,7 @@
+{
+  "name": "stone",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
